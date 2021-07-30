@@ -1,6 +1,6 @@
 interface Location {
-  lat: string;
-  lon: string;
+  lat: number;
+  lng: number;
 }
 
 export default interface Place {
